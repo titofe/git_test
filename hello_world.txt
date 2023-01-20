@@ -1,1 +1,1 @@
-##This is my first terminal test
+This is my first terminal test
